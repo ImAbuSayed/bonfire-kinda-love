@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the embers burning when you look my way
+> A quiet kind of magic at the close of day
+> Just let the shadows fall and let the world rewind
+> I want to leave the rush and leave the noise behind
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
